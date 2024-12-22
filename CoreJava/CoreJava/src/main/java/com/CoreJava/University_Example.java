@@ -9,8 +9,8 @@ import org.apache.logging.log4j.Logger;
 import com.CoreJava.Basic_Implementation.*;
 import com.CoreJava.PolymorphismAndInheritance.*;
 
-public class App {
-	private static final Logger logger = LogManager.getLogger(App.class);
+public class University_Example {
+	private static final Logger logger = LogManager.getLogger(University_Example.class);
 
 	public static void main(String[] args) {
 
@@ -37,28 +37,7 @@ public class App {
 		Collections.sort(ListofStudents, new AgeComparator());
 		displayAll(ListofStudents);
 
-		// Polymorphism:
-		logger.info("Demonstration of Polymorphism:");
-		// singlelevel
-		BaseClass singleInheritance = new DerivedClass1();
-		singleInheritance.display(); // Base class method
-		singleInheritance.display("Single Inheritance Test"); // Overloaded Base class method
-		singleInheritance.show(); // Overridden DerivedClass1 method
-
-		// multilevel
-		BaseClass multilevelInheritance = new DerivedClass2();
-		multilevelInheritance.display("Multilevel Inheritance Test");
-
-		// hierarchical
-		BaseClass hierarchicalInheritance = new Hierarchical();
-		hierarchicalInheritance.display("Hierarchical Inheritance Test");
-
-		// hybrid
-		Hybrid hybridInheritance = new Hybrid();
-		hybridInheritance.display("Hybrid Inheritance Test");
-
-		BaseInterface hybridAsInterface = new Hybrid();
-		hybridAsInterface.display(); // Method from BaseInterface implemented in Hybrid class
+		
 
 	}
 
