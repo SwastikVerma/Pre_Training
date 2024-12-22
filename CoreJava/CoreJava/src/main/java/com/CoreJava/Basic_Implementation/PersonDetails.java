@@ -36,5 +36,6 @@ abstract class PersonDetails implements GenericIdentifiable {
 		return age;
 	}
 
+	@Override
 	public abstract void displayDetails();
 }

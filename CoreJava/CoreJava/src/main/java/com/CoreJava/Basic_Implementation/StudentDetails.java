@@ -1,6 +1,6 @@
 package com.CoreJava.Basic_Implementation;
 
-public class StudentDetails extends PersonDetails {
+public class StudentDetails extends PersonDetails implements Comparable<StudentDetails> {
 	private int marks;
 
 	public StudentDetails(int id, int marks, String name, int age) {
@@ -27,6 +27,11 @@ public class StudentDetails extends PersonDetails {
 	@Override
 	public void displayDetails() {
 		logger.info("Student Detail ID: {} , Name:{} , Age:{} , Marks:{}", getId(), getName(), getAge(), marks);
+	}
+
+	@Override
+	public int compareTo(StudentDetails student) {
+		return Integer.compare(student.getMarks(), this.marks);
 	}
 
 }

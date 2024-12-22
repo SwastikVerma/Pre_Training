@@ -1,7 +1,9 @@
 package com.CoreJava;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
+
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import com.CoreJava.Basic_Implementation.*;
@@ -19,6 +21,20 @@ public class App {
 		displayById(ListofFaculties, 3);
 		displayById(ListofStudents, 5);
 		displayById(ListofStudents, 24);
+
+		// Sorting:
+
+		// using Comparator in StudentDetails class:
+		// Sort on basis of Student marks in descending order
+		Collections.sort(ListofStudents);
+		logger.info("Sorted Student List on basis of Marks:");
+		displayAll(ListofStudents);
+
+		// using Comparable :
+		// Sorts on basis of Student Age in Ascending order
+		logger.info("Sorted Student List on basis of Age:");
+		Collections.sort(ListofStudents, new AgeComparator());
+		displayAll(ListofStudents);
 
 	}
 
