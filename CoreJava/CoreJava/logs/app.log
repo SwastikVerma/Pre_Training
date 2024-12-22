@@ -1,0 +1,43 @@
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 1 , Name:Prof. Adams , Age:40 , Department:CSE , Salary:75000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 2 , Name:Prof. Baker , Age:42 , Department:ECE , Salary:80000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 3 , Name:Prof. Clark , Age:44 , Department:IT , Salary:82000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 4 , Name:Prof. Davis , Age:45 , Department:ME , Salary:87000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 5 , Name:Prof. Evans , Age:38 , Department:CE , Salary:90000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 6 , Name:Prof. Foster , Age:37 , Department:CSE , Salary:78000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 7 , Name:Prof. Green , Age:39 , Department:ECE , Salary:83000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 8 , Name:Prof. Hill , Age:41 , Department:IT , Salary:85000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 9 , Name:Prof. Irving , Age:43 , Department:ME , Salary:88000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 10 , Name:Prof. Johnson , Age:46 , Department:CE , Salary:92000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 11 , Name:Prof. Kelly , Age:35 , Department:CSE , Salary:76000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 12 , Name:Prof. Lewis , Age:36 , Department:ECE , Salary:81000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 13 , Name:Prof. Martin , Age:34 , Department:IT , Salary:84000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 14 , Name:Prof. Nelson , Age:48 , Department:ME , Salary:86000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 15 , Name:Prof. Owens , Age:47 , Department:CE , Salary:89000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 16 , Name:Prof. Parker , Age:49 , Department:CSE , Salary:77000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 17 , Name:Prof. Quinn , Age:50 , Department:ECE , Salary:79000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 18 , Name:Prof. Reid , Age:52 , Department:IT , Salary:91000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 19 , Name:Prof. Scott , Age:53 , Department:ME , Salary:94000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 20 , Name:Prof. Taylor , Age:51 , Department:CE , Salary:95000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 1 , Name:Alice , Age:18 , Marks:85
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 2 , Name:Bob , Age:19 , Marks:90
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 3 , Name:Charlie , Age:20 , Marks:78
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 4 , Name:David , Age:21 , Marks:88
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 5 , Name:Eve , Age:22 , Marks:92
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 6 , Name:Frank , Age:18 , Marks:76
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 7 , Name:Grace , Age:19 , Marks:81
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 8 , Name:Hannah , Age:20 , Marks:84
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 9 , Name:Ivy , Age:21 , Marks:89
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 10 , Name:Jack , Age:22 , Marks:95
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 11 , Name:Kara , Age:18 , Marks:87
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 12 , Name:Leo , Age:19 , Marks:79
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 13 , Name:Mia , Age:20 , Marks:83
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 14 , Name:Nina , Age:21 , Marks:91
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 15 , Name:Oscar , Age:22 , Marks:77
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 16 , Name:Paul , Age:18 , Marks:80
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 17 , Name:Quinn , Age:19 , Marks:86
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 18 , Name:Rita , Age:20 , Marks:93
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 19 , Name:Steve , Age:21 , Marks:82
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 20 , Name:Tina , Age:22 , Marks:75
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Faculty Detail ID: 3 , Name:Prof. Clark , Age:44 , Department:IT , Salary:82000
+2024-12-22 13:47:09 [main] INFO  com.CoreJava.Basic_Implementation.PersonDetails - Student Detail ID: 5 , Name:Eve , Age:22 , Marks:92
+2024-12-22 13:47:09 [main] ERROR com.CoreJava.App - No Details By ID:24
