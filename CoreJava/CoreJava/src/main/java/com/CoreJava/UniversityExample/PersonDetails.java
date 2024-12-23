@@ -1,4 +1,4 @@
-package com.CoreJava.Basic_Implementation;
+package com.CoreJava.UniversityExample;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

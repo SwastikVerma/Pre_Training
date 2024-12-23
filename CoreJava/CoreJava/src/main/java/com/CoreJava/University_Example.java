@@ -6,8 +6,10 @@ import java.util.List;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import com.CoreJava.Basic_Implementation.*;
-import com.CoreJava.PolymorphismAndInheritance.*;
+import com.CoreJava.UniversityExample.AgeComparator;
+import com.CoreJava.UniversityExample.FacultyDetails;
+import com.CoreJava.UniversityExample.GenericIdentifiable;
+import com.CoreJava.UniversityExample.StudentDetails;
 
 public class University_Example {
 	private static final Logger logger = LogManager.getLogger(University_Example.class);

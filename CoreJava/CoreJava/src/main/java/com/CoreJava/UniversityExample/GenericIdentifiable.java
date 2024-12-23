@@ -1,4 +1,4 @@
-package com.CoreJava.Basic_Implementation;
+package com.CoreJava.UniversityExample;
 
 public interface GenericIdentifiable {
 	int getId();

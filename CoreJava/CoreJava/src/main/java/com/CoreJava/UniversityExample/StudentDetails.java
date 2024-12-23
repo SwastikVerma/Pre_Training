@@ -1,4 +1,4 @@
-package com.CoreJava.Basic_Implementation;
+package com.CoreJava.UniversityExample;
 
 public class StudentDetails extends PersonDetails implements Comparable<StudentDetails> {
 	private int marks;
