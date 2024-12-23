@@ -35,7 +35,6 @@ For the client-side programming section, I developed the front-end of a login an
 ---
 
 ## 4. Integrating Client and Server side (Application)
-In this section, I:
 - **Basic Hello World Program**: Created a servlet running on Apache Tomcat to display a simple "Hello World" message.
 - **Login and Registration Application**:
   - Developed the backend using **Java Servlets** and integrated with **MySQL** using JDBC.
